@@ -1,0 +1,11 @@
+========================
+
+TASK
+
+Generate TWO aligned documents:
+
+DOCUMENT A — CLIENT-FACING PROJECT DESCRIPTION
+...
+
+DOCUMENT B — FREELANCER-FACING TECHNICAL SPECIFICATION
+...

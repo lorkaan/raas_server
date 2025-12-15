@@ -1,0 +1,9 @@
+CLIENT INPUT (VARIABLE DATA)
+
+<Project_Metadata>
+@METADATA@
+</Project_Metadata>
+
+<Features>
+@FEATURE@
+</Features>
